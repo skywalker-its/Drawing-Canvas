@@ -1,2 +1,2 @@
-# Drawing-Canvas
-Let's make something funny in my drawing canvas
+# p5.play-boilerplate
+Boiler plate for p5.play
